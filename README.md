@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ceylan. 
-- 📚 I’m currently studying for my Master's degree in Data-driven Marketing (Specialization in Data Science) at Universidade Nova de Lisboa.
+- 📚 I’m currently studying for my Master's degree in Data-driven Marketing (Specialization in Data Science) at NOVA IMS.
 - 📫 You can reach me at ceylaneriss@gmail.com
 
 <!---
